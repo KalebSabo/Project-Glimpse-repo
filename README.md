@@ -1,6 +1,6 @@
 # GRASP
 
-> **A Edu-tainment VNRPG • 2 hours • 4 endings • 90-day dev sprint**
+> **An Edu-tainment VNRPG • 2 hours • 4 endings • 90-day dev sprint**
 
 ### Quick Facts
 - **Genre:** Space Edutainment Visual Novel x Light RPG  
