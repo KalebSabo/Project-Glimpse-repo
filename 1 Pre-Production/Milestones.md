@@ -3,7 +3,7 @@
 **Start date:** December 05, 2025  
 **Release date:** March 05, 2026 (Day 90)
 
-| Milestone                  | T-Start | Target Date   | Status     | Notes / Proof                              |
+| Milestone                  | T-Days | Target Date   | Status     | Notes / Proof                              |
 |----------------------------|------------|---------------|------------|--------------------------------------------|
 | **Pre-Production Complete**|            |               |            |                                            |
 | Concept locked             | Day 3      | Dec 07        | ✅          | One-page + elevator pitch approved         |
