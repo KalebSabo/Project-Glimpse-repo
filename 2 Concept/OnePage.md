@@ -53,4 +53,4 @@ Scope locked at end of pre-production (Day 18). No new features after that date.
 This is the project. No more, no less.  
 If it doesn’t fit on this one page, it doesn’t ship.
 
-Signed: __________________________  Date: ____________
+Signed: __Kaleb Sabo________________________  Date: ___Dec 7, 2025_________
