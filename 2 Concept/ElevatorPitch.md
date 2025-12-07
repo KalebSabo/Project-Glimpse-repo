@@ -1,4 +1,4 @@
-# Elevator Pitch – GRASP
+# Elevator Pitch – Glimpse
   
 **Genre:** Edutainment Visual Novel RPG  
 **Playtime:** 2 hours | **Platforms:** PC (itch.io) | **Engine:** Ren'Py  
