@@ -1,4 +1,5 @@
 # Risk Register – 90-Day VNRPG
+
 **Project:** Glimpse
 **Last updated:** 12/5/2025
 **Owner:** Kaleb Sabo
@@ -17,12 +18,14 @@
 | R10 | Demotivation / loss of passion halfway | 3 | 5 | 15 | Celebrate every milestone publicly. Keep a “wins” log. Remember: done > perfect. | Active | You | “This sucks” mood >3 days
 
 ### Risk Scoring
+
 - 15+ = Critical – must solve now
 - 10–14 = High – active mitigation
 - 5–9 = Medium – monitor
 - <5 = Low
 
-### How to use this file
+## How to use this file
+
 1. Review & update every Friday (5-minute task).
 2. When a risk turns red, stop everything and execute the mitigation.
 3. Once a risk is fully solved or no longer relevant, mark Status → Resolved.

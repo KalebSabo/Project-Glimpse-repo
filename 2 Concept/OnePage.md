@@ -1,11 +1,11 @@
 # One-Page Concept – Glimpse
 
-**Working Title** 
+**Working Title**
 Glimpse  
 **Final title can change until Day 60
 
 **Logline**  
-Awaken to red strobbing lights, alarms screaming...there is a problem. Wake up your companions? they might know something about it. Or, make your best attempt at solving the problem yourself and design the algorithm to solve it. From designing equations to exploring space to meeting new faces, from the starship to the surface of unknown planets, explore this fantastical world through a VNRPG experience.   
+Awaken to red strobbing lights, alarms screaming...there is a problem. Wake up your companions? they might know something about it. Or, make your best attempt at solving the problem yourself and design the algorithm to solve it. From designing equations to exploring space to meeting new faces, from the starship to the surface of unknown planets, explore this fantastical world through a VNRPG experience.
 
 **Genre & Tone**  
 Silent Protagonist x Soft/Loud mood swings
@@ -30,7 +30,7 @@ Read → Choose dialogue / action → Solve Puzzle → Immediate consequence + p
 Each levels 0–10 through choices. High stats unlock exclusive scenes, allies, and endings.
 
 **Unique Selling Hooks**  
-- Dialogue IS combat — no separate battle screen
+
 - Learn real world concepts of space travel  
 - Ending screen shows your final choice
 
