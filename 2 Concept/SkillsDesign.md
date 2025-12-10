@@ -22,4 +22,14 @@ Systems | Diagnostics | 3 | Scan/Indentify ship faults, alien tech | Puzzle: Det
 
 | Stat | Skill | Unlock Lvl | Description | Example Usage |
 |------|-------|------------|------|----|
-| Astrogation | Orbital Plot | 3 | Basic trajectories/docking | Safe re-entry, ship manuever 
+| Astrogation | Orbital Plot | 3 | Basic trajectories/docking | Safe re-entry, ship manuever |
+|             | Sensor sweep | 5 | Detect Anomalies | Spot ambush, |
+|             | Jump Calc    | 7 | Plot Hyperspace Jumps | Branch: Early Mission Complete |
+|             | Grav Sling   | 10 | Exploit gravity for fuel-free manuevers | 
+
+| Stat | Skill | Unlock Lvl | Description | Example Usage |
+|------|-------|------------|------|----|
+| Medicine | Triage | 3 | Prioritize Crew Injuries | Save Key NPC | 
+|          | Psych Stabilize | 5 | Combat isolation/hallucinations | Affinity Boosts, Calm Down crewmates | 
+|          | Field Surgery | 7 | Operate in zero-g | Revive during EVA, Loyalty | 
+|          | Pharma Synth | 10 | Craft meds from scraps | Cure ending | 
