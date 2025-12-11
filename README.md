@@ -28,4 +28,4 @@ TBA
 
 ### Links
 - Play latest build → TBA
-- Devlog & weeklies → https://twitter.com/ArtandExplosion
+- Devlog & weeklies → https://twitter.com/DarkWGames
