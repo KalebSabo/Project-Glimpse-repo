@@ -7,7 +7,7 @@
 |----------------------------|------------|---------------|------------|--------------------------------------------|
 | **Pre-Production Complete**|            |               |            |                                            |
 | Concept locked             | Day 3      | Dec 07        | ✅          | One-page + elevator pitch approved         |
-| Story outline finished     | Day 8      | Dec 12        | ☐          | 3-Act structure + endings matrix           |
+| Story outline finished     | Day 8      | Dec 12        | ✅          | 3-Act structure + endings matrix           |
 | All character bibles done  | Day 10     | Dec 14        | ☐          | 4–6 main characters with refs              |
 | Gameplay systems designed  | Day 12     | Dec 16        | ☐          | Stats, skills, consequences table          |
 | Art & audio bible complete | Day 14     | Dec 18        | ☐          | Palette, UI mockup, asset list             |
