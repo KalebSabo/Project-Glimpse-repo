@@ -5,11 +5,12 @@
 ## Need to Fulfill
 
 **Hook the Player**  
-*Explain Event Here*
+Red Alarms, awoken by AI in a hurry. 
 
 **Introduction**
 - Protagonist
-- Supporting Character
+    - The Player is the *Commander* of the *Pearl* (Spaceship)
+- Supporting Characters
 
 **Inciting Incident**  
 *Explain Event Here*
@@ -52,7 +53,7 @@ TBA
 *Explain Event Here*
 
 **Ending Outcome**  
-(*INSERT ENDING MATRIX*)
+Concept/EndingsMatrix.md
 
 
 
