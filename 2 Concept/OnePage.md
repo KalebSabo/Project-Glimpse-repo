@@ -2,7 +2,6 @@
 
 **Working Title**
 Glimpse  
-**Final title can change until Day 60
 
 **Logline**  
 Awaken to red strobbing lights, alarms screaming...there is a problem. Wake up your companions? they might know something about it. Or, make your best attempt at solving the problem yourself and design the algorithm to solve it. From designing equations to exploring space to meeting new faces, from the starship to the surface of unknown planets, explore this fantastical world through a VNRPG experience!
@@ -44,12 +43,4 @@ Ren’Py 8.2
 Hand drawn images, digital sketches
 Limited animation (rain particles, glitch effects, blinking UI)
 
-**90-Day Commitment**  
-Kaleb Sabo, Dante Feramisco
-Start: 05 Dec 2025  Finish: 05 Mar 2026  
-Scope locked at end of pre-production (Day 18). No new features after that date.
 
-This is the project. No more, no less.  
-If it doesn’t fit on this one page, it doesn’t ship.
-
-Signed: __________________________  Date: ____________

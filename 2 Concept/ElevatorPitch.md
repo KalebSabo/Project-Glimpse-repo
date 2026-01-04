@@ -2,7 +2,7 @@
   
 **Genre:** Edutainment Visual Novel RPG  
 **Playtime:** 2 hours | **Platforms:** PC (itch.io) | **Engine:** Ren'Py  
-**Target Release:** March 05, 2026  
+**Target Release:** April 05, 2026 
 
 (Draft) Wake up explorer. You need to resurrect the ship, you and your crew have arrived to Exodus VII. Chart the course to land, navigate relationships with the crew, survive in the perils of space, discover the fantastical planets and otherwordly beings.    
 
