@@ -4,7 +4,7 @@
 Glimpse  
 
 **Logline**  
-Awaken to red strobbing lights, alarms screaming...there is a problem. Wake up your companions? they might know something about it. Or, make your best attempt at solving the problem yourself and design the algorithm to solve it. From designing equations to exploring space to meeting new faces, from the starship to the surface of unknown planets, explore this fantastical world through a VNRPG experience!
+Red strobbing lights, alarms screaming...no, wait...that was just a dream. Wake up, the orbital scans are coming in. Solar flare is coming in about two hours, nothing serious, need to uplink on the Sim POD and close up the panels for the satellite. But first, coffee. 
 
 **Genre & Tone**  
 Silent Protagonist x Soft/Loud mood swings
