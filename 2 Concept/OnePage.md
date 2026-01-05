@@ -4,7 +4,7 @@
 Glimpse  
 
 **Logline**  
-Red strobbing lights, alarms screaming...no, wait...that was just a dream. Wake up, the orbital scans are coming in. Solar flare is coming in about two hours, nothing serious, need to uplink on the Sim POD and close up the panels for the satellite. But first, coffee. 
+Red strobbing lights, alarms screaming...no, wait...that was just a dream. Wake up, the orbital scans are coming in. Solar flare in about two hours, nothing serious, need to uplink on the Sim POD and close up the panels for the satellite. But first, coffee. 
 
 **Genre & Tone**  
 Silent Protagonist x Soft/Loud mood swings
